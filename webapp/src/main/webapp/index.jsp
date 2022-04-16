@@ -1,6 +1,6 @@
 <h1>Saurabh Login Page</h1>
 <form action="action_page.php" method="post"> 
-	<h2> User Details</h2>
+	<h2> User registration</h2>
    <div class="container">
     <label for="uname"><b>Username</b></label>
     <input type="text" placeholder="Enter Username" name="uname" required>
