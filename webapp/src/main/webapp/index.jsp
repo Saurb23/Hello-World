@@ -2,10 +2,10 @@
 <form action="action_page.php" method="post"> 
 	<h2> User Details</h2>
    <div class="container">
-    <label for="uname"><b>Username</b></label>
+    <label for="uname"><b> Enter Username</b></label>
     <input type="text" placeholder="Enter Username" name="uname" required>
     <br>
-    <label for="psw"><b>Password</b></label>
+    <label for="psw"><b> Enter Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" required>
     <br>
     <button type="submit">Login</button>
