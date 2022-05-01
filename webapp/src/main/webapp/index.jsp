@@ -2,7 +2,7 @@
 <form action="action_page.php" method="post"> 
 	<h2> User Details</h2>
    <div class="container">
-    <label for="uname"><b> Enter Username</b></label>
+    <label for="uname"><b> Enter full Username</b></label>
     <input type="text" placeholder="Enter Username" name="uname" required>
     <br>
     <label for="mobile"><b> Enter Mobile</b></label>
