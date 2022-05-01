@@ -8,7 +8,7 @@
     <label for="mobile"><b> Enter Mobile</b></label>
     <input type="text" placeholder="Enter Mobile" name="mobile" required>
     <br>
-    <label for="psw"><b> Enter Password</b></label>
+    <label for="password"><b> Enter Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" required>
     <br>
     <button type="submit">Login</button>
